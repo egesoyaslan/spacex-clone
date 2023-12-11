@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.1em 7em;
+
+}
+
+.logo img {
+    width: auto;
+    height: 26px;
+}
+
+.bg img {
+    width: 100%;
+    height: 100%;
+}
